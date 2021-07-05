@@ -41,7 +41,7 @@ REQUIRED = [
     "tabulate==0.8.*",
     "toml==0.10.*",
     "tqdm==4.*",
-    "pyarrow==2.0.0",
+    "pyarrow~=4.0.0",
     "numpy>=1.20.0",
     "google",
     "kubernetes==12.0.*",
